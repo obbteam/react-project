@@ -1,4 +1,5 @@
 {
+  "homepage": "https//obbteam.react-project.github.io",
   "name": "practice",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +39,7 @@
     "production": [
       ">0.2%",
       "not dead",
+
       "not op_mini all"
     ],
     "development": [
